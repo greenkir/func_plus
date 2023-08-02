@@ -3,3 +3,6 @@ def plus(compression: str) -> int:
     left, right = int(left), int(right)
     result = left + right
     return result
+sdsd
+sdas
+sda
